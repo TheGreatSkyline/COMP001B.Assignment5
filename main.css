@@ -126,3 +126,12 @@ p {
 	* This will allow the padding to be applied to the main content of the page.
 	*/
 }
+#main-container nav {
+	/*
+	* I will get rid of the bullet points on the navigation bar.
+	*/
+	list-style-type: none;
+	/*
+	* This will allow me to get rid of the bullet points on the navigation bar.
+	*/
+}
