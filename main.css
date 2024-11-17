@@ -135,10 +135,13 @@ p {
 	* This will allow me to get rid of the bullet points on the navigation bar.
 	*/
 }
-#main-container nav ul {
+#main-container ul li a{
 	/*
 	* This will allow me to get rid of the bullet points on the navigation bar.
 	*/
-	list-style-type: none;
+	text-decoration: none;
+	/*
+	* This will allow me to get rid of the underline on the navigation bar.
+	*/
 
 }
