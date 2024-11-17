@@ -91,4 +91,10 @@ p {
 	* To display the three column layout.
 	* I will defined the columns specifications.
 	*/
+	grid-template-columns: 1fr 4fr 1fr;
+	/*
+	* To display the three column layout on the main content of the page.
+	* Allow me to define the columns display specifications.
+	* I will define the rows specifications.
+	*/
 }
