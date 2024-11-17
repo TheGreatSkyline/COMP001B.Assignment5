@@ -55,17 +55,21 @@ p {
 }
 
 #automotive, #maritime, #medical, #physics, #myths {
-
 }
 
 #footer-container {
-	
 }
 
 #header-container {
-
+	/*
+	* I did the header first because it is the first thing the user sees.
+	* It is important to make the header stand out and make it easy for the user
+	* to navigate the page.
+	*/
+	
+	
 }
 
 #main-container {
-
+	
 }
