@@ -85,5 +85,10 @@ p {
 	* The third column is the aside.
 	* The main content is the second thing the user sees.
 	*/
-	
+	display: grid;
+	/*
+	* This will display the grid on the main content of the page.
+	* To display the three column layout.
+	* I will defined the columns specifications.
+	*/
 }
