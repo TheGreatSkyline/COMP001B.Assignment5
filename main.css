@@ -46,6 +46,8 @@ main {
 	* Here I will a margin to the left and right of the main content.
 	* This will help the page to be more readable.
 	*/
+	margin: 0 auto;
+
 }
 
 p {
