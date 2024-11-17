@@ -42,7 +42,10 @@ header {
 }
 
 main {
-
+	/*
+	* Here I will a margin to the left and right of the main content.
+	* This will help the page to be more readable.
+	*/
 }
 
 p {
@@ -58,8 +61,7 @@ p {
 }
 
 #footer-container {
-}
-
+	
 #header-container {
 	/*
 	* I did the header first because it is the first thing the user sees.
