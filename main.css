@@ -69,9 +69,17 @@ p {
 	* Here I will adjust the grid to have a multiple row layout.
 	* This will help the page to be more readable.
 	*/
+
 }
 
 #footer-container {
+	/*
+	* I did the footer last because it is the last thing the user sees.
+	* It is important to make the footer stand out and make it easy for the user
+	* to navigate the page.
+	*/
+	
+}
 	
 #header-container {
 	/*
