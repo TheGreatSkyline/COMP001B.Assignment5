@@ -66,10 +66,24 @@ p {
 	* It is important to make the header stand out and make it easy for the user
 	* to navigate the page.
 	*/
-	
+	grid-column: auto;
+	/*
+	* The header is the first thing the user sees.
+	* It is important to make the header stand out and make it easy for the user
+	* to navigate the page.
+	*/
 	
 }
 
 #main-container {
+	/*
+	* This is the main content of the page.
+	* To display the main content, I used a grid.
+	* to get a three column layout.
+	* The first column is the navigation bar.
+	* The second column is the main content.
+	* The third column is the aside.
+	* The main content is the second thing the user sees.
+	*/
 	
 }
