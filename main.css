@@ -78,7 +78,10 @@ p {
 	* It is important to make the footer stand out and make it easy for the user
 	* to navigate the page.
 	*/
-	
+	grid-column: auto;
+	/*
+	* This allows the footer to take up the entire width of the page.
+	*/
 }
 	
 #header-container {
