@@ -60,6 +60,15 @@ p {
 }
 
 #automotive, #maritime, #medical, #physics, #myths {
+	/*
+	* Here I will adjust the grid to have a single column layout.
+	* This will help the page to be more readable.
+	*/
+	grid-column: span 4;
+	/*
+	* Here I will adjust the grid to have a multiple row layout.
+	* This will help the page to be more readable.
+	*/
 }
 
 #footer-container {
