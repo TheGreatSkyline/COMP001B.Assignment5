@@ -95,6 +95,10 @@ p {
 	/*
 	* To display the three column layout on the main content of the page.
 	* Allow me to define the columns display specifications.
-	* I will define the rows specifications.
+	* I will define the padding specifications.
+	*/
+	padding: 2em 2em;
+	/*
+	* This will allow the padding to be applied to the main content of the page.
 	*/
 }
